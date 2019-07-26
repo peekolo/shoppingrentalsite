@@ -2,7 +2,7 @@
 
 # Shopping and Rental Web Application
 
-###A web application with shopping cart/checkout and rental membership/rental points done for a board game company back in 2009.
+### A web application with shopping cart/checkout and rental membership/rental points done for a board game company back in 2009.
 
 Features:
 * Classic Listing of products with sort, filter and search capabilities
